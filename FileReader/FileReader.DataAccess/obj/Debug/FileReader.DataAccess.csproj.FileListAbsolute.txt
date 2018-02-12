@@ -1,0 +1,5 @@
+C:\CTS\GitHub\FileReader\FileReader.DataAccess\bin\Debug\FileReader.DataAccess.dll
+C:\CTS\GitHub\FileReader\FileReader.DataAccess\bin\Debug\FileReader.DataAccess.pdb
+C:\CTS\GitHub\FileReader\FileReader.DataAccess\obj\Debug\FileReader.DataAccess.csprojResolveAssemblyReference.cache
+C:\CTS\GitHub\FileReader\FileReader.DataAccess\obj\Debug\FileReader.DataAccess.dll
+C:\CTS\GitHub\FileReader\FileReader.DataAccess\obj\Debug\FileReader.DataAccess.pdb

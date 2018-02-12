@@ -1,0 +1,5 @@
+C:\CTS\GitHub\FileReader\bin\Release\FileReader.exe.config
+C:\CTS\GitHub\FileReader\bin\Release\FileReader.exe
+C:\CTS\GitHub\FileReader\bin\Release\FileReader.pdb
+C:\CTS\GitHub\FileReader\obj\Release\FileReader.exe
+C:\CTS\GitHub\FileReader\obj\Release\FileReader.pdb

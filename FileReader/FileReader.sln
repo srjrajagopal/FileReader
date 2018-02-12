@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReader", "FileReader.csproj", "{61E0248A-C31C-485A-96FE-76F484D8EE10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReader.DataAccess", "FileReader.DataAccess\FileReader.DataAccess.csproj", "{FCDDCE1A-3315-4832-8CDF-BE6D61C82BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReader.Business", "FileReader.Business\FileReader.Business.csproj", "{BCBE9886-1117-4376-AA80-DFDB67F39DF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E0248A-C31C-485A-96FE-76F484D8EE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E0248A-C31C-485A-96FE-76F484D8EE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E0248A-C31C-485A-96FE-76F484D8EE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E0248A-C31C-485A-96FE-76F484D8EE10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDDCE1A-3315-4832-8CDF-BE6D61C82BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDDCE1A-3315-4832-8CDF-BE6D61C82BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDDCE1A-3315-4832-8CDF-BE6D61C82BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDDCE1A-3315-4832-8CDF-BE6D61C82BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBE9886-1117-4376-AA80-DFDB67F39DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBE9886-1117-4376-AA80-DFDB67F39DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBE9886-1117-4376-AA80-DFDB67F39DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBE9886-1117-4376-AA80-DFDB67F39DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

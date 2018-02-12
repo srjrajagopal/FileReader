@@ -1,0 +1,17 @@
+C:\CTS\GitHub\FileReader.Business\obj\Debug\FileReader.Business.csprojResolveAssemblyReference.cache
+C:\CTS\GitHub\FileReader.Business\bin\Debug\FileReader.Business.dll
+C:\CTS\GitHub\FileReader.Business\bin\Debug\FileReader.Business.pdb
+C:\CTS\GitHub\FileReader.Business\bin\Debug\FileReader.DataAccess.dll
+C:\CTS\GitHub\FileReader.Business\bin\Debug\Newtonsoft.Json.dll
+C:\CTS\GitHub\FileReader.Business\bin\Debug\FileReader.DataAccess.pdb
+C:\CTS\GitHub\FileReader.Business\bin\Debug\Newtonsoft.Json.xml
+C:\CTS\GitHub\FileReader.Business\obj\Debug\FileReader.Business.dll
+C:\CTS\GitHub\FileReader.Business\obj\Debug\FileReader.Business.pdb
+C:\CTS\GitHub\FileReader\FileReader.Business\bin\Debug\FileReader.Business.dll
+C:\CTS\GitHub\FileReader\FileReader.Business\bin\Debug\FileReader.Business.pdb
+C:\CTS\GitHub\FileReader\FileReader.Business\bin\Debug\FileReader.DataAccess.dll
+C:\CTS\GitHub\FileReader\FileReader.Business\bin\Debug\FileReader.DataAccess.pdb
+C:\CTS\GitHub\FileReader\FileReader.Business\bin\Debug\Newtonsoft.Json.xml
+C:\CTS\GitHub\FileReader\FileReader.Business\obj\Debug\FileReader.Business.csprojResolveAssemblyReference.cache
+C:\CTS\GitHub\FileReader\FileReader.Business\obj\Debug\FileReader.Business.dll
+C:\CTS\GitHub\FileReader\FileReader.Business\obj\Debug\FileReader.Business.pdb

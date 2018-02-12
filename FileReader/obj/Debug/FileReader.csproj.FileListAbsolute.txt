@@ -1,0 +1,12 @@
+C:\CTS\GitHub\FileReader\bin\Debug\FileReader.exe.config
+C:\CTS\GitHub\FileReader\bin\Debug\FileReader.exe
+C:\CTS\GitHub\FileReader\bin\Debug\FileReader.pdb
+C:\CTS\GitHub\FileReader\obj\Debug\FileReader.csprojResolveAssemblyReference.cache
+C:\CTS\GitHub\FileReader\obj\Debug\FileReader.exe
+C:\CTS\GitHub\FileReader\obj\Debug\FileReader.pdb
+C:\CTS\GitHub\FileReader\bin\Debug\Newtonsoft.Json.dll
+C:\CTS\GitHub\FileReader\bin\Debug\Newtonsoft.Json.xml
+C:\CTS\GitHub\FileReader\bin\Debug\FileReader.Business.dll
+C:\CTS\GitHub\FileReader\bin\Debug\FileReader.Business.pdb
+C:\CTS\GitHub\FileReader\bin\Debug\FileReader.DataAccess.dll
+C:\CTS\GitHub\FileReader\bin\Debug\FileReader.DataAccess.pdb
